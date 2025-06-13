@@ -1458,7 +1458,7 @@ p {
 }
 
 /* ===== Footer CSS ===== */
-.ud-footer {
+.ud-footer-bottom {
   background: var(--heading-color);
   padding-top: 100px;
   position: relative;
